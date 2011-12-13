@@ -2,3 +2,5 @@ del_wout_phone - Deletes all entries in the Address Book without a phone number
 				 Useful for Android phones that uselessly aggregate contact lists from all social networks with existing ones
 
 relace_char.py - Replace characters in a file
+
+to_playbook.sh - compile and install playbook app on the simulator
